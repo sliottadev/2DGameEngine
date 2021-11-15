@@ -1,0 +1,6 @@
+﻿  PeColor.cpp
+  PeObject.cpp
+  PeShape.cpp
+  Utils.cpp
+D:\Proyectos\Platform 2D Engine\PlatEngine\PlatEngine\Utils.cpp(26,2): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generando código...
